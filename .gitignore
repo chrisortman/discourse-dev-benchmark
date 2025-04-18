@@ -17,8 +17,9 @@ public/csv/*
 public/plugins/*
 public/tombstone/*
 
-# Ignore bundler config
-/.bundle
+# Bundler config is important for building some native gems that are old.
+
+# /.bundle
 /cache
 /coverage/*
 
