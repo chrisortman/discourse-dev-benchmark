@@ -1,0 +1,3 @@
+---
+BUNDLE_BUILD__FAST_XS: "--with-cflags=\"-Wno-incompatible-pointer-types\""
+BUNDLE_BUILD__GC_TRACER: "--with-cflags=\"-Wno-incompatible-pointer-types\""
